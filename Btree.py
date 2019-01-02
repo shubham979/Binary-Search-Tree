@@ -163,7 +163,7 @@ class BST:
 
 
 
-B=BST()
+#B=BST()
 data_list=[x for x in input("Enter elements to a tree: ",).split(',')]
 for i in data_list:
 	B.add_node(i)
